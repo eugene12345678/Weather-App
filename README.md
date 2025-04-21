@@ -21,11 +21,11 @@ A clean, responsive, and modern weather application built with **Next.js**, **Ty
 
 | Home | 7-Day Forecast |
 |------|----------------|
-| ![Home](./public/screenshots/screenshot-home.png) | ![Forecast](./public/screenshots/screenshot-forecast.png) |
+| ![Home](./public/Screenshot_2025-04-21_12_16_17.png) | ![Forecast](./public/Screenshot_2025-04-21_12_49_04.png) |
 
 | Hourly Forecast | City Search |
 |-----------------|-------------|
-| ![Hourly](./public/screenshots/screenshot-hourly.png) | ![Search](./public/screenshots/screenshot-search.png) |
+| ![Hourly](./public/Screenshot_2025-04-21_12_45_15.png) | ![Search](./public/Screenshot_2025-04-21_12_56_55.png) |
 
 ---
 
@@ -44,7 +44,7 @@ A clean, responsive, and modern weather application built with **Next.js**, **Ty
 
 ```bash
 git clone https://github.com/eugene12345678/Weather-App.git
-cd weather-app
+cd Weather-App
 npm install
 ```
 ## 🔧 Start the development server
