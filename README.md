@@ -19,11 +19,11 @@ A clean, responsive, and modern weather application built with **Next.js**, **Ty
 
 ## 📸 Screenshots
 
-| Home | 7-Day Forecast |
+| Home | Hourly Forecast |
 |------|----------------|
 | ![Home](./public/Screenshot_2025-04-21_12_16_17.png) | ![Forecast](./public/Screenshot_2025-04-21_12_49_04.png) |
 
-| Hourly Forecast | City Search |
+| 7-Day Forecast | City Search |
 |-----------------|-------------|
 | ![Hourly](./public/Screenshot_2025-04-21_12_45_15.png) | ![Search](./public/Screenshot_2025-04-21_12_56_55.png) |
 
